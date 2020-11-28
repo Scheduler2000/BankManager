@@ -1,0 +1,8 @@
+#ifndef __STRING_EXTENSION__
+#define __STRING_EXTENSION__
+
+/* Supprime tous les espaces et saut de ligne ainsi les horizontal tab. */
+char* ClearString(char *data);
+
+
+#endif

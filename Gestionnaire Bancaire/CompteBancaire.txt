@@ -1,0 +1,69 @@
+{
+
+	{
+		Owner : Lionel_Messi
+		Balance : 30332234.00 $
+		Opening date : 20.2.1980
+	}
+
+	{
+		Owner : Tasnim_Bennacer
+		Balance : 50234.53 $
+		Opening date : 20.2.2001
+	}
+
+	{
+		Owner : Marc_Dupont
+		Balance : 30234.23 $
+		Opening date : 20.2.2001
+	}
+
+	{
+		Owner : 50_Cent
+		Balance : 30211.04 $
+		Opening date : 1.2.1974
+	}
+
+	{
+		Owner : Cristiano_Ronaldo
+		Balance : 25345.15 $
+		Opening date : 20.2.1985
+	}
+
+	{
+		Owner : Antoine_Griezmann
+		Balance : 3333.12 $
+		Opening date : 0.0.0
+	}
+
+	{
+		Owner : Hammoud_Boualem
+		Balance : 1234.43 $
+		Opening date : 43.34.228
+	}
+
+	{
+		Owner : Billy_Paul
+		Balance : 100.04 $
+		Opening date : 1.2.2000
+	}
+
+	{
+		Owner : Charles_Auvrignon
+		Balance : 100.04 $
+		Opening date : 1.2.2000
+	}
+
+	{
+		Owner : Nicolas_Charron
+		Balance : 48.13 $
+		Opening date : 20.2.2015
+	}
+
+	{
+		Owner : Prenom_Nom
+		Balance : 11.12 $
+		Opening date : 12.21.12
+	}
+
+}END

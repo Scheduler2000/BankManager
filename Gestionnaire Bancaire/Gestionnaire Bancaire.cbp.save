@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Gestionnaire Bancaire" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Gestionnaire Bancaire" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="includes/ConsoleExtension.h" />
+		<Unit filename="includes/displayer.h" />
+		<Unit filename="includes/file.h" />
+		<Unit filename="includes/inputManager.h" />
+		<Unit filename="includes/list.h" />
+		<Unit filename="includes/stringExtension.h" />
+		<Unit filename="sources/ConsoleExtension.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/displayer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/file.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/inputManager.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/stringExtension.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

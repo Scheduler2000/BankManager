@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1552316277 source:c:\users\perospero\desktop\gestionnaire bancaire\sources\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../includes/list.h"
+	"../includes/file.h"
+	"../includes/displayer.h"
+
+1552317126 source:c:\users\perospero\desktop\gestionnaire bancaire\sources\list.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"../includes/list.h"
+	"../includes/ConsoleExtension.h"
+
+1552314677 c:\users\perospero\desktop\gestionnaire bancaire\includes\list.h
+
+1552316711 source:c:\users\perospero\desktop\gestionnaire bancaire\sources\consoleextension.c
+	<stdio.h>
+	<stdlib.h>
+	"../includes/ConsoleExtension.h"
+
+1552317112 c:\users\perospero\desktop\gestionnaire bancaire\includes\consoleextension.h
+	<windows.h>
+	<termios.h>
+	<unistd.h>
+
+1552316581 source:c:\users\perospero\desktop\gestionnaire bancaire\sources\file.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"../includes/list.h"
+	"../includes/ConsoleExtension.h"
+	"../includes/stringExtension.h"
+	"../includes/file.h"
+
+1552156169 c:\users\perospero\desktop\gestionnaire bancaire\includes\file.h
+
+1552133643 source:c:\users\perospero\desktop\gestionnaire bancaire\sources\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"../includes/menu.h"
+
+1552131945 c:\users\perospero\desktop\gestionnaire bancaire\includes\menu.h
+
+1552168793 c:\users\perospero\desktop\gestionnaire bancaire\includes\stringextension.h
+	<string.h>
+	"../includes/list.h"
+
+1552261547 source:c:\users\perospero\desktop\gestionnaire bancaire\sources\stringextension.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"../includes/stringExtension.h"
+
+1552316258 source:c:\users\perospero\desktop\gestionnaire bancaire\sources\displayer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../includes/displayer.h"
+	"../includes/inputManager.h"
+
+1552307136 c:\users\perospero\desktop\gestionnaire bancaire\includes\displayer.h
+	"../includes/list.h"
+
+1552315824 c:\users\perospero\desktop\gestionnaire bancaire\includes\inputmanager.h
+	"../includes/list.h"
+
+1552316871 source:c:\users\perospero\desktop\gestionnaire bancaire\sources\inputmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"../includes/inputManager.h"
+	"../includes/stringExtension.h"
+	"../includes/ConsoleExtension.h"
+
